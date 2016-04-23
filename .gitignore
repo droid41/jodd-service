@@ -1,0 +1,7 @@
+.metadata/
+jodd-service/build/
+jodd-service/bin/
+jodd-service/.settings/
+jodd-service/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin
+RemoteSystemsTempFiles/.project
+jodd-service/.gradle/
